@@ -161,6 +161,8 @@ The same process was followed for the skills and contact pages.
 - Interests: Java, Python, Artificial Intelligence, Machine Learning and Web Development.
 
 **GitHub:** [@harshrajsingh9693](https://github.com/harshrajsingh9693)
+**GitHub:** [@Shahib-Alam-Saifi](https://github.com/Shahib-Alam-Saifi)
+
 
 ## 🔗 Repository Link
 
@@ -175,5 +177,11 @@ This project provided practical experience with Git and GitHub version control. 
 It serves as a foundation for understanding collaborative software development and building larger web development projects.
 
 ---
+## Team Members
+### Leader:- Harsh Raj ###
+### Member:- Shahib Alam Saifi ###
+---
+
+**Made with ❤️ using HTML, CSS, Git and GitHub.**
 
 
